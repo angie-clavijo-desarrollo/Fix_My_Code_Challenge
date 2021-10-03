@@ -1,8 +1,9 @@
 #!/usr/bin/python3
+""" Script that verify area and perimeter of square"""
 
-class square():
-    width = 0
-    height = 0
+
+class Square():
+    """ New Class"""
 
     def __init__(self, *args, **kwargs):
         """ Values of constructor"""
